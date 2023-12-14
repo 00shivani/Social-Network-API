@@ -8,6 +8,7 @@ An API for a social network web application where users can share their thoughts
 - [Credits](credits)
 
 ## Video Walkthrough: 
+[Youtube - Social Network API Walkthrough](https://youtu.be/4kSqklgXc3k)
 
 ## Technologies Used
 - express
