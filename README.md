@@ -4,7 +4,6 @@ An API for a social network web application where users can share their thoughts
 ## Table of Contents:
 - [Video Walkthrough](video-walkthrough)
 - [Technologies Used](technologies-used)
-- [Deployed URL](deployed-url)
 - [Screenshots](screenshots)
 - [Credits](credits)
 
@@ -14,8 +13,6 @@ An API for a social network web application where users can share their thoughts
 - express
 - mongoose 
 - mongoDB Compass
-
-## Deployed URL
 
 ## Screenshots
 
