@@ -16,6 +16,9 @@ An API for a social network web application where users can share their thoughts
 - mongoDB Compass
 
 ## Screenshots
+<img width="959" alt="social-network-api" src="https://github.com/00shivani/Social-Network-API/assets/126500106/7e11a068-d409-49cf-b165-5ebea5647838">
+<img width="958" alt="social-network-api-2" src="https://github.com/00shivani/Social-Network-API/assets/126500106/3b48319d-947c-4e95-80f8-4fe0db2e7459">
+
 
 ## Credits
 - Chat GPT
