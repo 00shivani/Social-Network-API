@@ -8,6 +8,8 @@ An API for a social network web application where users can share their thoughts
 - [Screenshots](screenshots)
 - [Credits](credits)
 
+## Video Walkthrough: 
+
 ## Technologies Used
 - express
 - mongoose 
