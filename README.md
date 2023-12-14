@@ -13,7 +13,9 @@ An API for a social network web application where users can share their thoughts
 ## Technologies Used
 - express
 - mongoose 
-- mongoDB Compass 
+- mongoDB Compass
+
+## Deployed URL
 
 ## Screenshots
 
